@@ -27,3 +27,27 @@ As a self-taught learner exploring Python and data structures, I built this proj
    ```bash
    git clone https://github.com/yourusername/student-grades-manager
    cd student-grades-manager
+
+Enter student name: John
+How many subjects? 2
+Enter subject name: Math
+Enter grade for Math: 85
+Enter subject name: English
+Enter grade for English: 90
+Student added successfully!
+
+----- Student Records -----
+Name: Alice
+  Math: 90
+  Science: 85
+  English: 78
+
+Name: Bob
+  Math: 88
+  Science: 92
+  English: 79
+
+Name: John
+  Math: 85
+  English: 90
+
